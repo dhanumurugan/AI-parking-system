@@ -1,0 +1,198 @@
+[
+  {
+    "plate_number": "TN37CS2765",
+    "fine_amount": 200,
+    "timestamp": "2025-12-19 09:02:28.165888",
+    "payment_method": "No FASTag",
+    "payment_status": "Pending",
+    "payment_due": "2025-12-20 09:02:28.165888",
+    "due_date": "2025-12-20 09:02:28.165888",
+    "image_paths": {
+      "full_frame": "captured_violations/plate_TN37CS2765_20251219_090228_full.jpg",
+      "plate_crop": "captured_violations/plate_TN37CS2765_20251219_090228_crop.jpg",
+      "processed": "captured_violations/plate_TN37CS2765_20251219_090228_processed.jpg"
+    }
+  },
+  {
+    "plate_number": "TN37CS2765",
+    "fine_amount": 200,
+    "timestamp": "2025-12-19 09:12:10.868392",
+    "payment_method": "No FASTag",
+    "payment_status": "Pending",
+    "payment_due": "2025-12-20 09:12:10.868392",
+    "due_date": "2025-12-20 09:12:10.868392",
+    "image_paths": {
+      "full_frame": "captured_violations/plate_TN37CS2765_20251219_091210_full.jpg",
+      "plate_crop": "captured_violations/plate_TN37CS2765_20251219_091210_crop.jpg",
+      "processed": "captured_violations/plate_TN37CS2765_20251219_091210_processed.jpg"
+    }
+  },
+  {
+    "plate_number": "TN37CS2765",
+    "fine_amount": 200,
+    "timestamp": "2025-12-19 09:12:43.014885",
+    "payment_method": "No FASTag",
+    "payment_status": "Pending",
+    "payment_due": "2025-12-20 09:12:43.014885",
+    "due_date": "2025-12-20 09:12:43.014885",
+    "image_paths": {
+      "full_frame": "captured_violations/plate_TN37CS2765_20251219_091243_full.jpg",
+      "plate_crop": "captured_violations/plate_TN37CS2765_20251219_091243_crop.jpg",
+      "processed": "captured_violations/plate_TN37CS2765_20251219_091243_processed.jpg"
+    }
+  },
+  {
+    "plate_number": "TN37CS2765",
+    "fine_amount": 200,
+    "timestamp": "2025-12-19 09:18:23.923055",
+    "payment_method": "No FASTag",
+    "payment_status": "Pending",
+    "payment_due": "2025-12-20 09:18:23.923055",
+    "due_date": "2025-12-20 09:18:23.923055",
+    "image_paths": {
+      "full_frame": "captured_violations/plate_TN37CS2765_20251219_091823_full.jpg",
+      "plate_crop": "captured_violations/plate_TN37CS2765_20251219_091823_crop.jpg",
+      "processed": "captured_violations/plate_TN37CS2765_20251219_091823_processed.jpg"
+    }
+  },
+  {
+    "plate_number": "TN37CS2765",
+    "fine_amount": 200,
+    "timestamp": "2025-12-19 12:40:08.769580",
+    "payment_method": "No FASTag",
+    "payment_status": "Pending",
+    "payment_due": "2025-12-20 12:40:08.769580",
+    "due_date": "2025-12-20 12:40:08.769580",
+    "image_paths": {
+      "full_frame": "captured_violations/plate_TN37CS2765_20251219_124008_full.jpg",
+      "plate_crop": "captured_violations/plate_TN37CS2765_20251219_124008_crop.jpg",
+      "processed": "captured_violations/plate_TN37CS2765_20251219_124008_processed.jpg"
+    }
+  },
+  {
+    "plate_number": "TN37CS2765",
+    "fine_amount": 200,
+    "timestamp": "2025-12-22 12:05:22.225031",
+    "payment_method": "No FASTag",
+    "payment_status": "Pending",
+    "payment_due": "2025-12-23 12:05:22.225031",
+    "due_date": "2025-12-23 12:05:22.225031",
+    "image_paths": {
+      "full_frame": "captured_violations/plate_TN37CS2765_20251222_120522_full.jpg",
+      "plate_crop": "captured_violations/plate_TN37CS2765_20251222_120522_crop.jpg",
+      "processed": "captured_violations/plate_TN37CS2765_20251222_120522_processed.jpg"
+    }
+  },
+  {
+    "plate_number": "TN37C52765",
+    "fine_amount": 200,
+    "timestamp": "2025-12-22 12:06:57.412080",
+    "payment_method": "No FASTag",
+    "payment_status": "Pending",
+    "payment_due": "2025-12-23 12:06:57.412080",
+    "due_date": "2025-12-23 12:06:57.412080",
+    "image_paths": {
+      "full_frame": "captured_violations/plate_TN37C52765_20251222_120657_full.jpg",
+      "plate_crop": "captured_violations/plate_TN37C52765_20251222_120657_crop.jpg",
+      "processed": "captured_violations/plate_TN37C52765_20251222_120657_processed.jpg"
+    }
+  },
+  {
+    "plate_number": "TN37CS2765",
+    "fine_amount": 200,
+    "timestamp": "2025-12-22 12:10:00.099400",
+    "payment_method": "No FASTag",
+    "payment_status": "Pending",
+    "payment_due": "2025-12-23 12:10:00.099400",
+    "due_date": "2025-12-23 12:10:00.099400",
+    "image_paths": {
+      "full_frame": "captured_violations/plate_TN37CS2765_20251222_121000_full.jpg",
+      "plate_crop": "captured_violations/plate_TN37CS2765_20251222_121000_crop.jpg",
+      "processed": "captured_violations/plate_TN37CS2765_20251222_121000_processed.jpg"
+    }
+  },
+  {
+    "plate_number": "TN37C52765",
+    "fine_amount": 200,
+    "timestamp": "2025-12-22 12:10:42.895358",
+    "payment_method": "No FASTag",
+    "payment_status": "Pending",
+    "payment_due": "2025-12-23 12:10:42.895358",
+    "due_date": "2025-12-23 12:10:42.895358",
+    "image_paths": {
+      "full_frame": "captured_violations/plate_TN37C52765_20251222_121042_full.jpg",
+      "plate_crop": "captured_violations/plate_TN37C52765_20251222_121042_crop.jpg",
+      "processed": "captured_violations/plate_TN37C52765_20251222_121042_processed.jpg"
+    }
+  },
+  {
+    "plate_number": "TN37CS2765",
+    "fine_amount": 200,
+    "timestamp": "2026-04-30 23:33:07.634160",
+    "payment_method": "No FASTag",
+    "payment_status": "Pending",
+    "payment_due": "2026-05-01 23:33:07.634160",
+    "due_date": "2026-05-01 23:33:07.634160",
+    "image_paths": {
+      "full_frame": "captured_violations/plate_TN37CS2765_20260430_233307_full.jpg",
+      "plate_crop": "captured_violations/plate_TN37CS2765_20260430_233307_crop.jpg",
+      "processed": "captured_violations/plate_TN37CS2765_20260430_233307_processed.jpg"
+    }
+  },
+  {
+    "plate_number": "TN37C52765",
+    "fine_amount": 200,
+    "timestamp": "2026-04-30 23:34:21.246783",
+    "payment_method": "No FASTag",
+    "payment_status": "Pending",
+    "payment_due": "2026-05-01 23:34:21.246783",
+    "due_date": "2026-05-01 23:34:21.246783",
+    "image_paths": {
+      "full_frame": "captured_violations/plate_TN37C52765_20260430_233421_full.jpg",
+      "plate_crop": "captured_violations/plate_TN37C52765_20260430_233421_crop.jpg",
+      "processed": "captured_violations/plate_TN37C52765_20260430_233421_processed.jpg"
+    }
+  },
+  {
+    "plate_number": "TN37CS2765",
+    "fine_amount": 200,
+    "timestamp": "2026-05-22 12:38:58.399738",
+    "payment_method": "No FASTag",
+    "payment_status": "Pending",
+    "payment_due": "2026-05-23 12:38:58.399738",
+    "due_date": "2026-05-23 12:38:58.399738",
+    "image_paths": {
+      "full_frame": "C:\\Users\\dhanu\\OneDrive\\Desktop\\No-parking-violation-system-main\\No-parking-violation-system-main\\captured_violations/plate_TN37CS2765_20260522_123858_full.jpg",
+      "plate_crop": "C:\\Users\\dhanu\\OneDrive\\Desktop\\No-parking-violation-system-main\\No-parking-violation-system-main\\captured_violations/plate_TN37CS2765_20260522_123858_crop.jpg",
+      "processed": "C:\\Users\\dhanu\\OneDrive\\Desktop\\No-parking-violation-system-main\\No-parking-violation-system-main\\captured_violations/plate_TN37CS2765_20260522_123858_processed.jpg"
+    }
+  },
+  {
+    "plate_number": "TN37CS2765",
+    "fine_amount": 200,
+    "timestamp": "2026-07-09 09:24:41.256852",
+    "payment_method": "No FASTag",
+    "payment_status": "Pending",
+    "payment_due": "2026-07-10 09:24:41.256852",
+    "due_date": "2026-07-10 09:24:41.256852",
+    "image_paths": {
+      "full_frame": "E:\\No-parking-violation-system-main\\No-parking-violation-system-main\\captured_violations/plate_TN37CS2765_20260709_092441_full.jpg",
+      "plate_crop": "E:\\No-parking-violation-system-main\\No-parking-violation-system-main\\captured_violations/plate_TN37CS2765_20260709_092441_crop.jpg",
+      "processed": "E:\\No-parking-violation-system-main\\No-parking-violation-system-main\\captured_violations/plate_TN37CS2765_20260709_092441_processed.jpg"
+    }
+  },
+  {
+    "plate_number": "TN37C52765",
+    "fine_amount": 200,
+    "timestamp": "2026-07-09 09:26:19.160040",
+    "payment_method": "No FASTag",
+    "payment_status": "Pending",
+    "payment_due": "2026-07-10 09:26:19.160040",
+    "due_date": "2026-07-10 09:26:19.160040",
+    "image_paths": {
+      "full_frame": "E:\\No-parking-violation-system-main\\No-parking-violation-system-main\\captured_violations/plate_TN37C52765_20260709_092619_full.jpg",
+      "plate_crop": "E:\\No-parking-violation-system-main\\No-parking-violation-system-main\\captured_violations/plate_TN37C52765_20260709_092619_crop.jpg",
+      "processed": "E:\\No-parking-violation-system-main\\No-parking-violation-system-main\\captured_violations/plate_TN37C52765_20260709_092619_processed.jpg"
+    }
+  }
+]

@@ -1,0 +1,240 @@
+[
+  {
+    "number_plate": "TN37CS2765",
+    "vehicle_type": "Unknown",
+    "owner_name": "Unknown",
+    "phone_number": "Unknown",
+    "fastag_id": "Unknown",
+    "has_fastag": false,
+    "balance": 0.0,
+    "fine_amount": 200,
+    "last_detected": "2025-12-19T09:02:28.164811Z",
+    "confidence": 0.7141652184163426,
+    "image_paths": {
+      "full_frame": "captured_violations/plate_TN37CS2765_20251219_090228_full.jpg",
+      "plate_crop": "captured_violations/plate_TN37CS2765_20251219_090228_crop.jpg",
+      "processed": "captured_violations/plate_TN37CS2765_20251219_090228_processed.jpg"
+    }
+  },
+  {
+    "number_plate": "TN37CS2765",
+    "vehicle_type": "Unknown",
+    "owner_name": "Unknown",
+    "phone_number": "Unknown",
+    "fastag_id": "Unknown",
+    "has_fastag": false,
+    "balance": 0.0,
+    "fine_amount": 200,
+    "last_detected": "2025-12-19T09:12:10.867369Z",
+    "confidence": 0.7141652184163426,
+    "image_paths": {
+      "full_frame": "captured_violations/plate_TN37CS2765_20251219_091210_full.jpg",
+      "plate_crop": "captured_violations/plate_TN37CS2765_20251219_091210_crop.jpg",
+      "processed": "captured_violations/plate_TN37CS2765_20251219_091210_processed.jpg"
+    }
+  },
+  {
+    "number_plate": "TN37CS2765",
+    "vehicle_type": "Unknown",
+    "owner_name": "Unknown",
+    "phone_number": "Unknown",
+    "fastag_id": "Unknown",
+    "has_fastag": false,
+    "balance": 0.0,
+    "fine_amount": 200,
+    "last_detected": "2025-12-19T09:12:43.012713Z",
+    "confidence": 0.7141652184163426,
+    "image_paths": {
+      "full_frame": "captured_violations/plate_TN37CS2765_20251219_091243_full.jpg",
+      "plate_crop": "captured_violations/plate_TN37CS2765_20251219_091243_crop.jpg",
+      "processed": "captured_violations/plate_TN37CS2765_20251219_091243_processed.jpg"
+    }
+  },
+  {
+    "number_plate": "TN37CS2765",
+    "vehicle_type": "Unknown",
+    "owner_name": "Unknown",
+    "phone_number": "Unknown",
+    "fastag_id": "Unknown",
+    "has_fastag": false,
+    "balance": 0.0,
+    "fine_amount": 200,
+    "last_detected": "2025-12-19T09:18:23.920913Z",
+    "confidence": 0.7141652184163426,
+    "image_paths": {
+      "full_frame": "captured_violations/plate_TN37CS2765_20251219_091823_full.jpg",
+      "plate_crop": "captured_violations/plate_TN37CS2765_20251219_091823_crop.jpg",
+      "processed": "captured_violations/plate_TN37CS2765_20251219_091823_processed.jpg"
+    }
+  },
+  {
+    "number_plate": "TN37CS2765",
+    "vehicle_type": "Unknown",
+    "owner_name": "Unknown",
+    "phone_number": "Unknown",
+    "fastag_id": "Unknown",
+    "has_fastag": false,
+    "balance": 0.0,
+    "fine_amount": 200,
+    "last_detected": "2025-12-19T12:40:08.759769Z",
+    "confidence": 0.7141652184163426,
+    "image_paths": {
+      "full_frame": "captured_violations/plate_TN37CS2765_20251219_124008_full.jpg",
+      "plate_crop": "captured_violations/plate_TN37CS2765_20251219_124008_crop.jpg",
+      "processed": "captured_violations/plate_TN37CS2765_20251219_124008_processed.jpg"
+    }
+  },
+  {
+    "number_plate": "TN37CS2765",
+    "vehicle_type": "Unknown",
+    "owner_name": "Unknown",
+    "phone_number": "Unknown",
+    "fastag_id": "Unknown",
+    "has_fastag": false,
+    "balance": 0.0,
+    "fine_amount": 200,
+    "last_detected": "2025-12-22T12:05:22.223006Z",
+    "confidence": 0.7141652184163426,
+    "image_paths": {
+      "full_frame": "captured_violations/plate_TN37CS2765_20251222_120522_full.jpg",
+      "plate_crop": "captured_violations/plate_TN37CS2765_20251222_120522_crop.jpg",
+      "processed": "captured_violations/plate_TN37CS2765_20251222_120522_processed.jpg"
+    }
+  },
+  {
+    "number_plate": "TN37C52765",
+    "vehicle_type": "Unknown",
+    "owner_name": "Unknown",
+    "phone_number": "Unknown",
+    "fastag_id": "Unknown",
+    "has_fastag": false,
+    "balance": 0.0,
+    "fine_amount": 200,
+    "last_detected": "2025-12-22T12:06:57.407896Z",
+    "confidence": 0.9758343573766654,
+    "image_paths": {
+      "full_frame": "captured_violations/plate_TN37C52765_20251222_120657_full.jpg",
+      "plate_crop": "captured_violations/plate_TN37C52765_20251222_120657_crop.jpg",
+      "processed": "captured_violations/plate_TN37C52765_20251222_120657_processed.jpg"
+    }
+  },
+  {
+    "number_plate": "TN37CS2765",
+    "vehicle_type": "Unknown",
+    "owner_name": "Unknown",
+    "phone_number": "Unknown",
+    "fastag_id": "Unknown",
+    "has_fastag": false,
+    "balance": 0.0,
+    "fine_amount": 200,
+    "last_detected": "2025-12-22T12:10:00.097383Z",
+    "confidence": 0.7141652184163426,
+    "image_paths": {
+      "full_frame": "captured_violations/plate_TN37CS2765_20251222_121000_full.jpg",
+      "plate_crop": "captured_violations/plate_TN37CS2765_20251222_121000_crop.jpg",
+      "processed": "captured_violations/plate_TN37CS2765_20251222_121000_processed.jpg"
+    }
+  },
+  {
+    "number_plate": "TN37C52765",
+    "vehicle_type": "Unknown",
+    "owner_name": "Unknown",
+    "phone_number": "Unknown",
+    "fastag_id": "Unknown",
+    "has_fastag": false,
+    "balance": 0.0,
+    "fine_amount": 200,
+    "last_detected": "2025-12-22T12:10:42.892299Z",
+    "confidence": 0.9758343573766654,
+    "image_paths": {
+      "full_frame": "captured_violations/plate_TN37C52765_20251222_121042_full.jpg",
+      "plate_crop": "captured_violations/plate_TN37C52765_20251222_121042_crop.jpg",
+      "processed": "captured_violations/plate_TN37C52765_20251222_121042_processed.jpg"
+    }
+  },
+  {
+    "number_plate": "TN37CS2765",
+    "vehicle_type": "Unknown",
+    "owner_name": "Unknown",
+    "phone_number": "Unknown",
+    "fastag_id": "Unknown",
+    "has_fastag": false,
+    "balance": 0.0,
+    "fine_amount": 200,
+    "last_detected": "2026-04-30T23:33:07.630761Z",
+    "confidence": 0.7141652184163426,
+    "image_paths": {
+      "full_frame": "captured_violations/plate_TN37CS2765_20260430_233307_full.jpg",
+      "plate_crop": "captured_violations/plate_TN37CS2765_20260430_233307_crop.jpg",
+      "processed": "captured_violations/plate_TN37CS2765_20260430_233307_processed.jpg"
+    }
+  },
+  {
+    "number_plate": "TN37C52765",
+    "vehicle_type": "Unknown",
+    "owner_name": "Unknown",
+    "phone_number": "Unknown",
+    "fastag_id": "Unknown",
+    "has_fastag": false,
+    "balance": 0.0,
+    "fine_amount": 200,
+    "last_detected": "2026-04-30T23:34:21.243776Z",
+    "confidence": 0.9758343573766654,
+    "image_paths": {
+      "full_frame": "captured_violations/plate_TN37C52765_20260430_233421_full.jpg",
+      "plate_crop": "captured_violations/plate_TN37C52765_20260430_233421_crop.jpg",
+      "processed": "captured_violations/plate_TN37C52765_20260430_233421_processed.jpg"
+    }
+  },
+  {
+    "number_plate": "TN37CS2765",
+    "vehicle_type": "Unknown",
+    "owner_name": "Unknown",
+    "phone_number": "Unknown",
+    "fastag_id": "Unknown",
+    "has_fastag": false,
+    "balance": 0.0,
+    "fine_amount": 200,
+    "last_detected": "2026-05-22T12:38:58.397002Z",
+    "confidence": 0.7141652184163426,
+    "image_paths": {
+      "full_frame": "C:\\Users\\dhanu\\OneDrive\\Desktop\\No-parking-violation-system-main\\No-parking-violation-system-main\\captured_violations/plate_TN37CS2765_20260522_123858_full.jpg",
+      "plate_crop": "C:\\Users\\dhanu\\OneDrive\\Desktop\\No-parking-violation-system-main\\No-parking-violation-system-main\\captured_violations/plate_TN37CS2765_20260522_123858_crop.jpg",
+      "processed": "C:\\Users\\dhanu\\OneDrive\\Desktop\\No-parking-violation-system-main\\No-parking-violation-system-main\\captured_violations/plate_TN37CS2765_20260522_123858_processed.jpg"
+    }
+  },
+  {
+    "number_plate": "TN37CS2765",
+    "vehicle_type": "Unknown",
+    "owner_name": "Unknown",
+    "phone_number": "Unknown",
+    "fastag_id": "Unknown",
+    "has_fastag": false,
+    "balance": 0.0,
+    "fine_amount": 200,
+    "last_detected": "2026-07-09T09:24:41.253427Z",
+    "confidence": 0.7141652184163426,
+    "image_paths": {
+      "full_frame": "E:\\No-parking-violation-system-main\\No-parking-violation-system-main\\captured_violations/plate_TN37CS2765_20260709_092441_full.jpg",
+      "plate_crop": "E:\\No-parking-violation-system-main\\No-parking-violation-system-main\\captured_violations/plate_TN37CS2765_20260709_092441_crop.jpg",
+      "processed": "E:\\No-parking-violation-system-main\\No-parking-violation-system-main\\captured_violations/plate_TN37CS2765_20260709_092441_processed.jpg"
+    }
+  },
+  {
+    "number_plate": "TN37C52765",
+    "vehicle_type": "Unknown",
+    "owner_name": "Unknown",
+    "phone_number": "Unknown",
+    "fastag_id": "Unknown",
+    "has_fastag": false,
+    "balance": 0.0,
+    "fine_amount": 200,
+    "last_detected": "2026-07-09T09:26:19.155613Z",
+    "confidence": 0.9758343573766654,
+    "image_paths": {
+      "full_frame": "E:\\No-parking-violation-system-main\\No-parking-violation-system-main\\captured_violations/plate_TN37C52765_20260709_092619_full.jpg",
+      "plate_crop": "E:\\No-parking-violation-system-main\\No-parking-violation-system-main\\captured_violations/plate_TN37C52765_20260709_092619_crop.jpg",
+      "processed": "E:\\No-parking-violation-system-main\\No-parking-violation-system-main\\captured_violations/plate_TN37C52765_20260709_092619_processed.jpg"
+    }
+  }
+]

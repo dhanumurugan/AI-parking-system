@@ -1,0 +1,54 @@
+{
+    "vehicles": [
+        {
+            "number_plate": "TN37CS2765",
+            "vehicle_type": "Car",
+            "owner_name": "John Doe",
+            "phone_number": "+916374831305",
+            "fastag_id": "FT123456789",
+            "balance": 750.0,
+            "fine_amount": 200.0,
+            "last_detected": "2025-03-08T12:00:00Z"
+        },
+        {
+            "number_plate": "KA05CD5678",
+            "vehicle_type": "SUV",
+            "owner_name": "Rahul Sharma",
+            "phone_number": "+916374831305",
+            "fastag_id": "FT987654321",
+            "balance": 1200.5,
+            "fine_amount": 300.0,
+            "last_detected": "2025-03-07T15:30:00Z"
+        },
+        {
+            "number_plate": "DL08EF9101",
+            "vehicle_type": "Bike",
+            "owner_name": "Anita Verma",
+            "phone_number": "+916374831305",
+            "fastag_id": "FT456789123",
+            "balance": 450.75,
+            "fine_amount": 150.0,
+            "last_detected": "2025-03-06T09:45:00Z"
+        },
+        {
+            "number_plate": "TN10GH2345",
+            "vehicle_type": "Truck",
+            "owner_name": "Vikram Singh",
+            "phone_number": "+916374831305",
+            "fastag_id": "FT789123456",
+            "balance": 3000.0,
+            "fine_amount": 500.0,
+            "last_detected": "2025-03-05T20:10:00Z"
+        },
+        {
+            "number_plate": "UP15IJ6789",
+            "vehicle_type": "Van",
+            "owner_name": "Meera Iyer",
+            "phone_number": "+916374831305",
+            "fastag_id": "FT321654987",
+            "balance": 980.25,
+            "fine_amount": 250.0,
+            "last_detected": "2025-03-04T14:20:00Z"
+        }
+    ]
+}

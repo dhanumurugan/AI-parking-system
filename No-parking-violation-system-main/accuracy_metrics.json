@@ -1,0 +1,9 @@
+{
+    "timestamp": "2026-07-09T09:26:39.588479",
+    "total_detections": 38,
+    "detection_accuracy": 100.0,
+    "ocr_accuracy": 0.0,
+    "validation_accuracy": 0,
+    "avg_confidence": 0.5290300124569943,
+    "avg_detection_time_ms": 130.76528310775757
+}
